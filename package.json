@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://l3oneM.github.io/monsters-rolodex",
+  "homepage": "https://L3oneM.github.io/monsters-rolodex",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
